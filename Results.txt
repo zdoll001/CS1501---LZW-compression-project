@@ -1,0 +1,152 @@
+FILES  —- ORIGINAL SIZE —- COMPRESSED SIZE —- RATIO (unmodified LZW)
+Assig2.doc —- 87kb —- 75kb —- 1.16 
+
+Code.txt —- 72kb —- 31kb —- 2.32
+
+Code2.txt —- 58kb —- 24kb —- 2.41
+
+edit.exe —- 236kb —- 251kb —- .97
+
+frosty.jpg —- 127kb —- 177kb —- .72
+
+gone_fishing.bmp —- 17kb —- 9kb —- 1.8
+
+large.txt —- 1.2mb —- 605kb —- 1.98
+
+lego-big.gif —- 93kb —- 129kb —- .72
+
+medium.txt —- 25kb —- 13kb —- 1.92
+
+wacky.bmp —- 922kb —- 4kb —- 230.5
+
+winnt256.bmp —- 157kb —- 159kb —- .98
+
+all.tar —- 3mb —- 1.8kb —- 1.66
+
+texts.tar —- 1.4mb —- 1mb —- 1
+
+bmps.tar —- 1.1mb —- 925kb —- 1.18
+
+*************************************************************************
+
+FILES  —- ORIGINAL SIZE —- COMPRESSED SIZE —- RATIO (do nothing mode - ’n’)
+Assig2.doc —- 87kb —- 40kb —- 2.175
+
+Code.txt —- 72kb —- 25kb —- 2.88
+
+Code2.txt —- 58kb —- 21kb —- 2.76
+
+edit.exe —- 236kb —- 156kb —- 1.51
+
+frosty.jpg —- 127kb —- 164kb —- .77
+
+gone_fishing.bmp —- 17kb —- 9kb —- 1.88
+
+large.txt —- 1.2mb —- 502kb —- 3.58
+
+lego-big.gif —- 93kb —- 122kb —- .76
+
+medium.txt —- 25kb —- 13kb —- 1.92
+
+wacky.bmp —- 922kb —- 4kb —- 230.5
+
+winnt256.bmp —- 157kb —- 63kb —- 2.49
+
+all.tar —- 3mb —- 1.8mb —- 1.66
+
+texts.tar —- 1.4mb —- 598kb —- 2.34
+
+bmps.tar —- 1.1mb —- 81kb —- 13.5
+
+*************************************************************************
+
+FILES  —- ORIGINAL SIZE —- COMPRESSED SIZE —- RATIO (reset mode - ‘r’)
+Assig2.doc —- 87kb —- 40kb —- 2.175
+
+Code.txt —- 72kb —- 25kb —- 2.88
+
+Code2.txt —- 58kb —- 21kb —- 2.76
+
+edit.exe —- 236kb —- 152kb —- 1.55
+
+frosty.jpg —- 127kb —- 171kb —- .74
+
+gone_fishing.bmp —- 17kb —- 9kb —- 1.88
+
+large.txt —- 1.2mb —- 527kb —- 2.27
+
+lego-big.gif —- 93kb —- 122kb —- .76
+
+medium.txt —- 25kb —- 13kb —- 1.92
+
+wacky.bmp —- 922kb —- 4kb —- 230.5
+
+winnt256.bmp —- 157kb —- 63kb —- 2.49
+
+all.tar —- 3mb —- 1.2mb —- 2.5
+
+texts.tar —- 1.4mb —- 590kb —- 2.37
+
+bmps.tar —- 1.1mb —- 81kb —- 13.5
+
+*************************************************************************
+
+FILES  —- ORIGINAL SIZE —- COMPRESSED SIZE —- RATIO (monitor mode - ‘m’)
+Assig2.doc —- 87kb —- 40kb —- 2.175
+
+Code.txt —- 72kb —- 25kb —- 2.88
+
+Code2.txt —- 58kb —- 21kb —- 2.76
+
+edit.exe —- 236kb —- 156kb —- 1.51
+
+frosty.jpg —- 127kb —- 164kb —- .77
+
+gone_fishing.bmp —- 17kb —- 9kb —- 1.88
+
+large.txt —- 1.2mb —- 502kb —- 3.58
+
+lego-big.gif —- 93kb —- 122kb —- .76
+
+medium.txt —- 25kb —- 13kb —- 1.92
+
+wacky.bmp —- 922kb —- 4kb —- 230.5
+
+winnt256.bmp —- 157kb —- 63kb —- 2.49
+
+all.tar —- 3mb —- 321kb —- 9.34
+
+texts.tar —- 1.4mb —- 598kb —- 2.34
+
+bmps.tar —- 1.1mb —- 81kb —- 13.5
+
+*************************************************************************
+
+FILES  —- ORIGINAL SIZE —- COMPRESSED SIZE —- RATIO (.zip format)
+Assig2.doc —- 87kb —- 24kb —- 3.62
+
+Code.txt —- 72kb —- 16kb —- 4.50
+
+Code2.txt —- 58kb —- 14kb —- 4.14
+
+edit.exe —- 236kb —- 127kb —- 1.85
+
+frosty.jpg —- 127kb —- 127kb —- 1.00
+
+gone_fishing.bmp —- 17kb —- 9kb —- 1.88
+
+large.txt —- 1.2mb —- 494kb —- 2.42
+
+lego-big.gif —- 93kb —- 93kb —- 1.00
+
+medium.txt —- 25kb —- 11kb —- 2.27
+
+wacky.bmp —- 922kb —- 4kb —- 230.5
+
+winnt256.bmp —- 157kb —- 50kb —- 3.14
+
+all.tar —- 3mb —- 970kb —- 3.09
+
+texts.tar —- 1.4mb —- 534kb —- 2.62
+
+bmps.tar —- 1.1mb —- 64kb —- 17.18

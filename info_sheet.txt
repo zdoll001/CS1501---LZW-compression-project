@@ -1,0 +1,67 @@
+========================================
+
+CS/COE 1501 Assignment Information Sheet
+
+----------------------------------------
+
+
+
+You must submit an information sheet with every assignment.  Also be sure
+
+to submit all materials following the procedures described on the
+
+submission procedures page.
+
+
+
+Name:  
+
+Zachary Doll
+
+Lecture section:  
+
+Wed 6-8:45
+
+Recitation day and time:  
+
+Friday 1:00
+
+Assignment #:  
+
+2
+
+Program due date:  
+
+10/14/16
+
+Handed in date:  
+
+10/14/16
+
+Source code file name(s):
+
+
+
+myLZW.java
+
+
+
+Other file name(s) (if relevant):
+
+
+Results.txt
+
+
+Does your program run without error?:
+
+Yes
+
+If not, what is/are the error(s) and which parts of your program run
+
+correctly?:
+
+
+
+Additional comments to the grader:
+
+Works except for expanding all.tar in monitor mode —- compresses correctly but expand outputs bad .tar file
