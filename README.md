@@ -1,1 +1,1 @@
-# CS1501-Apartment Finder
+# CS1501-LZW compression
