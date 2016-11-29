@@ -1,1 +1,1 @@
-# CS1501-project-2
+# CS1501-Apartment Finder
